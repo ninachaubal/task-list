@@ -1,0 +1,14 @@
+.Container {
+  margin: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 45px;
+}
+
+.Groups {
+  grid-column: 0;
+}
+
+.Tasks {
+  grid-column: 1;
+}

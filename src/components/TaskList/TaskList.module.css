@@ -1,0 +1,25 @@
+.Container {
+  position: relative;
+}
+
+.Title {
+  color: #4a4a4a;
+  font-weight: normal;
+  font-size: 24px;
+  display: inline;
+}
+
+.AllGroups {
+  color: #83b5da;
+  font-size: 12px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+.List {
+  border-top: 1px solid #efefef;
+  list-style-type: none;
+  padding: 0;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "task-list",
+  "version": "0.1.0",
+  "private": true,
+  "repository": "github:ninachaubal/task-list",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-scripts-cssmodules": "^1.1.10",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "format": "standard --fix"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "standard": "^11.0.1"
+  }
+}
